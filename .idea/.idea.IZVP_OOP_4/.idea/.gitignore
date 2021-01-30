@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.IZVP_OOP_4.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\Anton\RiderProjects\IZVP_OOP_4\.idea\.idea.IZVP_OOP_4\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
